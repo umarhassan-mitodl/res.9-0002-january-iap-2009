@@ -1,0 +1,54 @@
+{
+  "term": "January IAP",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Data Mining"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Graphics and Visualization"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "412ed067-a1a4-5218-71a6-accaa8b6af99",
+  "instructors": {
+    "content": [
+      "53535cce-8a8c-02d1-9553-cb78d5eae6c5",
+      "2746685c-a15c-b270-f0f4-de0191ebfbb5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "52083b9b-5ac6-136c-f267-983df3d428e5",
+    "website": "res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009"
+  },
+  "course_title": "Statistics and Visualization for Data Analysis and Inference",
+  "hide_download": false,
+  "course_description": "A whirl-wind tour of the statistics used in behavioral science research, covering topics including: data visualization, building your own null-hypothesis distribution through permutation, useful parametric distributions, the generalized linear model, and model-based analyses more generally. Familiarity with MATLAB\u00ae, Octave, or R will be useful, prior experience with statistics will be helpful but is not essential. This course is intended to be a ground-up sketch of a coherent, alternative perspective to the \"null-hypothesis significance testing\" method for behavioral research (but don't worry if you don't know what this means).\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.9-0002",
+  "course_image_thumbnail": {
+    "content": "0d5b2f70-b30b-cf15-39af-15211b341036",
+    "website": "res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "c86921d1-dafd-46b6-8c86-2b5bcee4a40b",
+  "site_short_id": "res.9-0002-january-iap-2009",
+  "site_url_path": "courses/res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009",
+  "title": "Course Metadata"
+}
