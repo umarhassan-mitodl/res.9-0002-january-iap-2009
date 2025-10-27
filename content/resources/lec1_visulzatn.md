@@ -4,8 +4,6 @@ description: ''
 file: /courses/res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009/96df7f49cd50ed9bb0feb4793b9c8d89_lec1_visulzatn.pdf
 file_size: 2122624
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
